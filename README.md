@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a full stack software engineer. 🏗
+
+- 📫 How to reach me: hi@charhertz.com
+- More https://charhertz.com/ 
+
 <!--
 **charhertz/charhertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
